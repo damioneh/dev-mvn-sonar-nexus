@@ -1,5 +1,0 @@
-DevOps Best Practices:
--Collaborative culture
--Practice patience
--Set performance metrics
--Use correct DevOps tools
